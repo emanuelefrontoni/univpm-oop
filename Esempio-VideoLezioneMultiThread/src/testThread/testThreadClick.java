@@ -1,5 +1,7 @@
 package testThread;
 
+//UNIVPM 
+
 public class testThreadClick implements Runnable {
 	private int click = 0;
 	private Thread t;
